@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_designer">Application designer</string>
+    <string name="import_local_music">Add local music</string>
+    <string name="local_music">Local</string>
+    <string name="importing_local_music">Importing and preparing music…</string>
+    <string name="local_music_import_result">Added %1$d songs. Already imported: %2$d. Could not import: %3$d.</string>
+    <string name="local_music_import_hint">Add MP3, FLAC, ALAC/M4A, WAV, DSD (DSF/DFF), AIFF, AAC or OGG files. Songs appear in Library → Songs → Local. Some formats need a one-time conversion; DSD plays as PCM.</string>
+    <string name="local_music_picker_unavailable">No file picker is available on this device.</string>
+    <string name="local_music_unknown_artist">Unknown artist</string>
+    <string name="playback_position">Playback position</string>
+</resources>

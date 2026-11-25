@@ -1,0 +1,59 @@
+# --- Musik Module Build Folders ---
+**/build/
+/app/build
+/lrclib/build
+/kizzy/build
+/kugou/build
+/lastfm/build
+/betterlyrics/build
+/canvas/build
+/simpmusic/build
+/innertube/build
+
+# --- Standard Android Ignores ---
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files & Gradle Cache
+bin/
+gen/
+out/
+.gradle/
+.kotlin/
+app/universal/release/
+/app/arm64/release/
+/app/armeabi/release/
+/app/x86/release/
+/app/x86_64/release/
+
+# Local configuration file
+local.properties
+
+# Android Studio IDE files
+*.iml
+.idea/
+.DS_Store
+captures/
+
+# --- CRITICAL SECURITY ---
+*.jks
+*.keystore
+*.properties
+!gradle.properties
+!gradle/wrapper/gradle-wrapper.properties
+!app/src/main/res/resources.properties
+.android-test/
+
+# Local diagnostics, packaged builds, and server runtime files
+*.log
+/reports/
+/releases/
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+/div
+/div.blyrics--active

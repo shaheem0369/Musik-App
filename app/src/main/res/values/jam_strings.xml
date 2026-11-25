@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jam_title">Musik Jam</string>
+    <string name="jam_live">LIVE</string>
+    <string name="jam_listen_together">LISTEN TOGETHER</string>
+    <string name="jam_join_room">Join Room</string>
+    <string name="jam_create_room">Create Room</string>
+    <string name="jam_display_name">Your Display Name</string>
+    <string name="jam_permissions">Room Permissions &amp; Control</string>
+    <string name="jam_collaborative">Collaborative</string>
+    <string name="jam_host_only">Host Only</string>
+    <string name="jam_collaborative_description">Anyone in the room can play, pause, seek, add songs and change tracks.</string>
+    <string name="jam_host_only_description">Only the host controls playback and the queue. Guests listen along.</string>
+    <string name="jam_start_session">Start Jam Session</string>
+    <string name="jam_code_or_invite">Room code or invite</string>
+    <string name="jam_join_hint">Enter the 6-character room code or paste a Musik invite.</string>
+    <string name="jam_guest_token_free">An invite supplies the server address. Guests do not need the host’s server token.</string>
+    <string name="jam_custom_server">Custom Server Settings</string>
+    <string name="jam_configure_once">Set your Musik server address under Custom Server Settings. A server token is needed only to create rooms.</string>
+    <string name="jam_lan_advanced">Direct LAN connection</string>
+    <string name="jam_room_code">ROOM CODE</string>
+    <string name="jam_copy_code">Copy Code</string>
+    <string name="jam_share_invite">Share Invite</string>
+    <string name="jam_no_track">No track playing</string>
+    <string name="jam_sync">Jam Sync</string>
+    <string name="jam_play_pause">Play or pause</string>
+    <string name="jam_next">Next track</string>
+    <string name="jam_up_next">UP NEXT · YOUR QUEUE IS SHARED</string>
+    <string name="jam_queue_empty">Nothing queued. Choose an online song from Home or Library.</string>
+    <string name="jam_listeners">Listeners (%1$d)</string>
+    <string name="jam_end_session">End Jam Session</string>
+    <string name="jam_leave_session">Leave Jam Session</string>
+</resources>

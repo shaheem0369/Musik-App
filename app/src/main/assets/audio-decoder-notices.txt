@@ -1,0 +1,9 @@
+Local audio conversion uses FFmpeg Kit Audio 6.0.1 (LGPL-3.0), maintained by maxrave-dev.
+Dependency: io.github.maxrave-dev:ffmpeg-kit-audio:6.0.1
+Source and build instructions: https://github.com/maxrave-dev/ffmpeg-kit-16KB
+License: https://github.com/maxrave-dev/ffmpeg-kit-16KB/blob/main/LICENSE
+FFmpeg source: https://ffmpeg.org/download.html
+
+Imported sources stay on the device. ALAC, AIFF, DSD, and other audio requiring a
+compatible decoder are converted to a local FLAC playback copy. DSD is decoded
+to 88.2 kHz PCM, not sent as native DSD to an external DAC.

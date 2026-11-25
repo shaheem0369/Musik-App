@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="together_tab">Together</string>
+    <string name="together_server_title">Listen across phones</string>
+    <string name="together_server_description">Connect each phone to the same server. Create a room, share its code, then play a track. Queue, playback and position stay in sync.</string>
+    <string name="together_server_configure">Server settings</string>
+    <string name="together_server_url">Server URL</string>
+    <string name="together_server_token">Server access token</string>
+    <string name="together_server_token_hint">Needed to create rooms only. At least 16 characters, matching your server configuration.</string>
+    <string name="together_server_save_error">Could not save server settings. Try again.</string>
+    <string name="together_server_hint">Use your computer’s network address, such as http://192.168.1.10:8787, or your hosted HTTPS server. Hosts enter the server token; guests can join using an invite without it.</string>
+    <string name="together_server_missing">Configure your server to create or join an online room.</string>
+    <string name="together_server_save">Save server</string>
+    <string name="together_server_cancel">Cancel</string>
+    <string name="together_server_note">Each phone needs internet access to play shared online tracks. Files imported on one phone are not streamed to the others. Speaker and Bluetooth latency may vary.</string>
+</resources>
